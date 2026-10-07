@@ -1,0 +1,6 @@
+work/
+config.json
+.venv/
+__pycache__/
+assets/music/*
+!assets/music/.gitkeep

@@ -1,0 +1,52 @@
+{
+  "id": "terror-0001-el-vecino",
+  "niche": "terror",
+  "title": "El vecino que nunca salía",
+  "hashtags": ["#terror", "#historiasdeterror", "#creepypasta", "#suspenso", "#miedo"],
+  "metadata": {
+    "youtube": {
+      "title": "El vecino que nunca salía | Historia de terror #shorts",
+      "description": "Hace tres años que vivo en este edificio y nunca vi salir al vecino del 4B. Historia de terror en 30 segundos. Contenido generado con IA."
+    },
+    "tiktok": {
+      "caption": "Nunca vi salir al vecino del 4B... pero cada noche a las 3:17 alguien camina en mi techo."
+    }
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "image_prompt": "narrow apartment hallway at night, single flickering ceiling light, peeling wallpaper, closed door at the far end with a thin line of light underneath, dust floating in the air",
+      "narration": "Hace tres años que vivo en este edificio. Nunca vi salir al vecino del 4B.",
+      "onscreen_text": "3:17 AM",
+      "motion": "in",
+      "focus": [0.42, 0.55]
+    },
+    {
+      "n": 2,
+      "image_prompt": "close-up of a dark apartment ceiling, dust and plaster falling slowly from a crack, faint shadows shifting behind it, dim yellow lamp light from the side",
+      "narration": "Pero cada noche, a las tres diecisiete, escucho que alguien camina... en mi techo.",
+      "motion": "pan_right"
+    },
+    {
+      "n": 3,
+      "image_prompt": "rusty metal rooftop door slightly open at night, empty concrete rooftop beyond, low fog, cold blue moonlight, distant city lights",
+      "narration": "Anoche decidí subir. La puerta de la terraza estaba abierta.",
+      "onscreen_text": "Estaba abierta",
+      "motion": "in"
+    },
+    {
+      "n": 4,
+      "image_prompt": "rough chalk writing on a concrete rooftop floor at night, scribbled lines and numbers, flashlight beam sweeping across them, wet concrete reflections, top-down angle",
+      "narration": "En el suelo, escritas con tiza, había palabras. Mis horarios. Mi nombre.",
+      "motion": "pan_left"
+    },
+    {
+      "n": 5,
+      "image_prompt": "distant dark human silhouette standing motionless at the edge of a rooftop at night, blurred city lights behind, thin fog, wide shot",
+      "narration": "Y una última línea: gracias por mirar hacia arriba.",
+      "onscreen_text": "Gracias por mirar hacia arriba",
+      "motion": "out",
+      "min_seconds": 4.5
+    }
+  ]
+}

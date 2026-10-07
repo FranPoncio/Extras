@@ -1,0 +1,10 @@
+pillow
+diffusers
+transformers
+accelerate
+safetensors
+sentencepiece
+# Voz (elegí una):
+piper-tts
+# edge-tts
+# PyTorch con CUDA se instala aparte (ver README, paso 3).

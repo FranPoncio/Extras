@@ -1,0 +1,10 @@
+{
+  "work_dir": "work",
+  "voice_engine": "piper",
+  "piper_model": "C:\\voces\\es_MX-ald-medium.onnx",
+  "edge_voice": "es-MX-JorgeNeural",
+  "music_dir": "assets/music",
+  "image_width": 768,
+  "image_height": 1344,
+  "image_steps": 28
+}
